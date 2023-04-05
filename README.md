@@ -7,7 +7,7 @@ Stanford Cardinal's algorithms in IMC Prosperity 2023!
 
 Shubham Anand Jain (Twitter: https://twitter.com/Kimi5407, LinkedIn: https://www.linkedin.com/in/sa-jain/)
 
-Konstantin Miagkov
+Konstantin Miagkov (LinkedIn: https://www.linkedin.com/in/konstantin-miagkov-164396197/)
 
 Parth Dodhia
 
