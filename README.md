@@ -59,6 +59,8 @@ We further decided to never trade Dip, Baguettes or Coconuts. Some more ideas we
 
 3. Use some sort of momentum based ideas for Baguettes: we noticed that Baguettes usually go on a strong upward or downward run, which allowed momemtum-based strategies to work well. We were able to make a consistent 5-20k PnL on one of our signals, but changing the parameters slightly changed these numbers from -30k to 50k. We ended up not taking the risk here, and removed this signal.
 
+Some of our main ideas in the final round were to be rigorous about not overfitting, and avoiding complicated models due to the lack of test data. In retrospect this was justified, looking at the lower scores most other teams in the top 10 got in Round 5.
+
 #### Final results
 
 After all was said and done, we ended up in... 2nd place. While this is a good result, this competition had announced a prize only for top 1, so it hurt a bit being 2nd... Also, the AWS Lambda errors left a bit of a sour taste in our mouths.
